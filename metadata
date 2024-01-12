@@ -1,0 +1,11 @@
+{
+    "armadaMeta": {
+        "type": "rebalancing",
+        "content": {
+            "en": {
+                "name": "SOL-USDT Delta Neutral Yield",
+                "description": "This vault will target a 50/50 ratio of tokens using daily rebalancing within a volatility normalised liquidity range that is updated dynamically. Emergency hedging will be in place should a large outlier move occur."
+            }
+        }
+    }
+}
